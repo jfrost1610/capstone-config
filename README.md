@@ -1,1 +1,1 @@
-# spring-boot-capstone
+Repo to save all properties for Capstone microservices. Will be fetched using a Spring Cloud Config Server.
